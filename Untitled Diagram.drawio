@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T19:56:39.197Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="ovrc_b72yAQZGUtmfspw" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-27T20:00:04.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Kr_mFUuXCRxb54mvgsPq" version="24.6.2" type="github">
   <diagram name="Page-1" id="nrMohRXkfmWptk8Ia3cE">
     <mxGraphModel dx="3600" dy="2730" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -312,6 +312,30 @@
             <mxPoint x="-1401" y="819" as="sourcePoint" />
             <mxPoint x="-1399" y="884" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="v-x-NIrhz4WuDyH8p8N3-97" value="Initialize &quot;add_group_member&quot; method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1473" y="1082" width="169" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="v-x-NIrhz4WuDyH8p8N3-98" value="&#xa;The &lt;code&gt;add_group_members&lt;/code&gt; method adds members to a specified group.&#xa;&#xa;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0;" vertex="1" parent="1">
+          <mxGeometry x="-1301" y="985" width="158" height="108" as="geometry" />
+        </mxCell>
+        <mxCell id="v-x-NIrhz4WuDyH8p8N3-100" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1395" y="983" as="sourcePoint" />
+            <mxPoint x="-1395" y="1076" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-x-NIrhz4WuDyH8p8N3-101" value="Initialize &quot;is_universal_group&quot; method" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1475" y="1277" width="169" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="v-x-NIrhz4WuDyH8p8N3-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1391" y="1176" as="sourcePoint" />
+            <mxPoint x="-1391" y="1269" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="v-x-NIrhz4WuDyH8p8N3-105" value="The &lt;code&gt;is_universal_group&lt;/code&gt; method checks if a group is a universal group." style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=1;" vertex="1" parent="1">
+          <mxGeometry x="-1660" y="1223" width="175" height="111" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
