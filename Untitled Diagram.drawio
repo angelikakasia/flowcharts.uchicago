@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-27T20:00:04.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="Kr_mFUuXCRxb54mvgsPq" version="24.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T01:35:30.338Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0" etag="XJ_qvU3ujSYqI1bY9TQt" version="24.6.2" type="github">
   <diagram name="Page-1" id="nrMohRXkfmWptk8Ia3cE">
     <mxGraphModel dx="3600" dy="2730" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -209,7 +209,7 @@
           <mxGeometry x="-1477" y="-504" width="163" height="82" as="geometry" />
         </mxCell>
         <mxCell id="v-x-NIrhz4WuDyH8p8N3-64" value="&lt;p style=&quot;margin-bottom: 0in; line-height: normal;&quot; class=&quot;MsoListParagraphCxSpFirst&quot;&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;mso-spacerun:yes&quot;&gt;&amp;nbsp;&lt;/span&gt;obtains_dcs sets connections to&lt;br&gt;&lt;/font&gt;&lt;font face=&quot;Ow1QU9wGXKOwq4E5nagK&quot; style=&quot;font-size: 12px;&quot;&gt;domain controllers for both group and paged searches;&amp;nbsp; obtain_dc&amp;nbsp; sets the connection logic to specific domain controllers based on&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;Ow1QU9wGXKOwq4E5nagK&quot; style=&quot;font-size: 12px;&quot;&gt;domain names and credentials, with retry mechanisms;&amp;nbsp; &lt;span style=&quot;line-height: 115%;&quot;&gt;user_connection&lt;/span&gt; establishes a connection to the user&lt;br&gt;domain controller.&lt;/font&gt;&lt;/p&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.97;" vertex="1" parent="1">
-          <mxGeometry x="-1748" y="-991" width="252" height="203" as="geometry" />
+          <mxGeometry x="-1734" y="-968" width="252" height="203" as="geometry" />
         </mxCell>
         <mxCell id="v-x-NIrhz4WuDyH8p8N3-65" value="&lt;div&gt;Initialize Domain Controller Connections:&lt;/div&gt;&lt;div&gt;obtain_dc&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1472" y="-1000" width="162" height="99" as="geometry" />
